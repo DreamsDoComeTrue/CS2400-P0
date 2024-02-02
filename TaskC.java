@@ -1,7 +1,7 @@
 //Natalie Duong
-//CS1400
-//Assignment 4
-//10/3/23
+//CS2400
+//project 0
+//2/2/24
 
 import java.io.IOException;
 
