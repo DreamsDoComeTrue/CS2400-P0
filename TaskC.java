@@ -1,6 +1,6 @@
 //Natalie Duong
 //CS2400
-//project 0
+//Project 0
 //2/2/24
 
 import java.io.IOException;
