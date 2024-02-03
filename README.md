@@ -5,6 +5,7 @@
 * [x] Make, commit and push changes from the local repository to the remote repository
 * [x] Record a video and upload it for viewers
 * [x] Create a README file
+* [x] Make the repo public
 
 Submitted by: **Natalie Duong**
 
